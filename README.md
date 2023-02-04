@@ -6,7 +6,4 @@ My research focuses on the development of data-driven and machine learning appro
 
 Most of the scientific software I wrote for my research is available on this Github page.
 
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=flpmasi
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flpmasi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flpmasi)](https://git.io/streak-stats)
